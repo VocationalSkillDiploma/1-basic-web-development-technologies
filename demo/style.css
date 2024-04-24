@@ -1,0 +1,15 @@
+.small-text {
+  font-size: 12px;
+}
+
+.large-text {
+  font-size: 18px;
+}
+
+.info-text {
+  color: blue;
+}
+
+.danger-text {
+  color: red;
+}
